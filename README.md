@@ -4,11 +4,12 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hudsnf&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## Possuo conhecimento nas seguintes tecnologias:
-<div style="display: inline_block"><br>  
+<div style="display: inline_block"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <br> 
+  <br>
   e em constante aprendizado..
 </div>
 
