@@ -1,4 +1,4 @@
-## Olá! Eu sou Hudson Faria estudante de Analise e Desenvolvimento de Sistemas e futuro programador Frontend!
+## Olá! Eu sou Hudson Faria estudante de Análise e Desenvolvimento de Sistemas e futuro programador Frontend!
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hudsnf&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hudsnf&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
